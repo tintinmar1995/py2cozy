@@ -1,0 +1,4 @@
+*.pyc
+*.ipynb
+config.json
+run.sh
